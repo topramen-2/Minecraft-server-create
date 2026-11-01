@@ -1,0 +1,7 @@
+# Use custom northern biome tables. Nether stays at the mod default.
+[region_configs]
+toggle_custom_regions = true
+primary_region_weight = 11
+secondary_region_weight = 8
+rare_region_weight = 0
+nether_region_weight = 14
