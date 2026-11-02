@@ -1,3 +1,5 @@
+Latest tested client: [Create Kingdoms Alaska v2.0.2](https://github.com/topramen-2/Minecraft-server-create/releases/tag/v2.0.2-alaska)
+
 # Current Alaska release: v2.0.1
 
 - [Download the complete client pack](https://github.com/topramen-2/Minecraft-server-create/releases/tag/v2.0.1-alaska)
