@@ -1,0 +1,73 @@
+[
+  {
+    "filename": "interiors-1.21.1-neoforge-0.6.1.jar",
+    "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar",
+    "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5",
+    "version_id": "gBrfZy6S"
+  },
+  {
+    "filename": "vista-1.21.1-5.6.4-neoforge.jar",
+    "url": "https://cdn.modrinth.com/data/zuARv1N7/versions/cuwnqABg/vista-1.21.1-5.6.4-neoforge.jar",
+    "sha256": "d5009b582297c0e15405771cea2cd6969c021f298b0ff1a31b1750ea749ccb44",
+    "version_id": "cuwnqABg"
+  },
+  {
+    "filename": "VS-Sable-HoseConnectors-0.2.2-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/YaZEkFmd/versions/2UHpqeLs/VS-Sable-HoseConnectors-0.2.2-1.21.1.jar",
+    "sha256": "3c856ad8357157749e9ac3f2a3ae9c75113db146af3c510eef5794a17239b758",
+    "version_id": "2UHpqeLs"
+  },
+  {
+    "filename": "create_radar-5.0.3-1.21.1.jar",
+    "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/q723aMHO/create_radar-5.0.3-1.21.1.jar",
+    "sha256": "fb493b9a6f4306f27c991d9e521a5f9832d98f9bf8666da03ab201da57514028",
+    "version_id": "q723aMHO"
+  },
+  {
+    "filename": "Create Encased-1.21.1-1.10.0-fix1.jar",
+    "url": "https://cdn.modrinth.com/data/hSSqdyU1/versions/pld6Eng9/Create%20Encased-1.21.1-1.10.0-fix1.jar",
+    "sha256": "67de80fa384334e75ec087960a3d5bae40226bdea274d5c97995c81431431ed7",
+    "version_id": "pld6Eng9"
+  },
+  {
+    "filename": "create_mobile_packages-1.21.1-0.7.8.jar",
+    "url": "https://cdn.modrinth.com/data/1vXRfEHZ/versions/xSPt2JXH/create_mobile_packages-1.21.1-0.7.8.jar",
+    "sha256": "74a03a7d8112fd9a93d163ce73f34f43b4a0e44f2df6c595cc7ba1a24b40d095",
+    "version_id": "xSPt2JXH"
+  },
+  {
+    "filename": "createpropulsion-1.1.5.jar",
+    "url": "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar",
+    "sha256": "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1",
+    "version_id": "H13U56dc"
+  },
+  {
+    "filename": "create_aeronautics_automated_logistics-0.7.0.jar",
+    "url": "https://cdn.modrinth.com/data/73ZXeRfx/versions/ESwTkggq/create_aeronautics_automated_logistics-0.7.0.jar",
+    "sha256": "a7f1519f19b54363de387381e0e37192e0a5929c5f72d8e778425c1a39496956",
+    "version_id": "ESwTkggq"
+  },
+  {
+    "filename": "create_vibrant_vaults-0.3.2.jar",
+    "url": "https://cdn.modrinth.com/data/hddN8ksR/versions/t17qYXjn/create_vibrant_vaults-0.3.2.jar",
+    "sha256": "cebf5d1d1793fbfc2ee25b63d6f929910ad04ff72da5c1a6987d33961708cff1",
+    "version_id": "t17qYXjn"
+  },
+  {
+    "filename": "moonlight-1.21.1-3.7.2-neoforge.jar",
+    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/fAIfWX6M/moonlight-1.21.1-3.7.2-neoforge.jar",
+    "sha256": "4a9f15108607cc70273f8a0b6eb24e1e99af8eef44bc3ae8681767ca7ce21b0f",
+    "version_id": "fAIfWX6M"
+  },
+  {
+    "filename": "ncm-neoforge-1.21.x-1.1.jar",
+    "url": "https://cdn.modrinth.com/data/QPtUGYGd/versions/XyqGcty7/ncm-neoforge-1.21.x-1.1.jar",
+    "sha256": "0679096d7df1c11f29ba9ec8ced86d8f839d05c718886caad4ee6b5431d98ae0",
+    "version_id": "XyqGcty7"
+  },
+  {
+    "filename": "let_it_walk-0.1.0.jar",
+    "url": "https://mediafilez.forgecdn.net/files/9410/953/let_it_walk-0.1.0.jar",
+    "sha256": "67e719e98fabbe28428c71f8a8fe238b71c7c9943abf1250bf9155609f5ea166"
+  }
+]

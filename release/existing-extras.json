@@ -1,0 +1,14 @@
+[
+  {
+    "filename": "aero_no_horizon-1.0.4.jar",
+    "sha256": "8e92cb3c84186134b5579369360dbf010abda8fedf82a9410c5e237c612760cc"
+  },
+  {
+    "filename": "linearbearing-1.3.5.jar",
+    "sha256": "29563cdb52a82ac7d8b3aca823cd47a15c443e06314df06ca1a635ae9e91a253"
+  },
+  {
+    "filename": "linearbearingsfix-1.0.3.jar",
+    "sha256": "04afaaaf62951fc4cccfbb4468572fea2a876a6b5e872a6c60545d171fb21976"
+  }
+]

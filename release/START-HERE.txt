@@ -1,0 +1,27 @@
+CREATE KINGDOMS ALASKA v2.1.0 — START HERE
+
+This is the complete client pack. No previous release or patch is needed.
+
+1. Extract the whole ZIP into a NEW folder. Keep mods and config together.
+2. Open INSTALL-WINDOWS.md or INSTALL-LINUX.md in a text editor.
+   For formatted instructions, visit:
+   https://github.com/topramen-2/Minecraft-server-create/releases/latest
+3. Install 64-bit Java 21 and launch Minecraft Java Edition 1.21.1 once.
+4. Close Minecraft and the launcher. Run the NeoForge installer inside
+   installer, choose Install client, and wait for success.
+5. Create an installation in Minecraft Launcher using NeoForge 21.1.265.
+   Set Game Directory to THIS extracted folder (not its mods subfolder).
+6. In More Options / JVM Arguments, replace the existing -Xmx value with
+   -Xmx8G. Keep the rest of the arguments unchanged. Save and play.
+7. Ask Jackson for the server address, then add it under Multiplayer.
+
+A computer with 16 GB or more of total RAM is recommended for 8 GB game RAM.
+The included NeoForge installer is not a mod. Leave it out of mods.
+Shaders/resource packs are optional. Shaders start disabled.
+Do not merge old mods into this folder or download newer mod versions.
+
+Windows: INSTALL-WINDOWS.md
+Linux: INSTALL-LINUX.md
+Known issues and testing status: KNOWN-ISSUES.md
+Exact mod filenames: MOD-LIST.txt
+Checksums for each mod: pack-info.json
