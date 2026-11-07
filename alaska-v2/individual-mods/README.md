@@ -1,9 +1,5 @@
-# Alaska individual client mods
+# Individual client mods — v2.1.0
 
-These 109 JARs match v2.0.2 plus the November 2 Linear Bearing / No Horizon update.
+These 120 JARs exactly match the full v2.1.0 client ZIP. For a fresh install, use the [complete release](https://github.com/topramen-2/Minecraft-server-create/releases/latest), which also supplies configs, the NeoForge installer, and instructions.
 
-[Download and installation instructions](../updates/2026-11-02-linear-no-horizon/README.md)
-
-Use Linear Bearings Fix **1.0.3**; remove older copies such as 1.0.1. Server startup is confirmed; updated client joining and new-mod gameplay tests remain pending.
-
-Do not copy this entire client inventory to a dedicated server.
+To download one JAR, open it and click **Download raw file**. Do not extract the JAR or add a second version of the same mod.
